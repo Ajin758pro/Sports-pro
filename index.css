@@ -1,0 +1,60 @@
+#bg{
+    background-color: #000000;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+
+
+
+
+/* ------------------------Footer--------------------------- */
+
+/* footer {
+    background-color: #44156a;
+    padding: 20px;
+    min-height: 100px;
+    border-top: 1px solid #ddd;
+    
+     color: #b9abab;
+  }
+  
+  /* Add custom styles for link buttons */
+  .footer-links a {
+    color: #b6b9ab;
+    /* color: #b9abab; */
+    /* margin-right: 10px; */
+  }
+  
+  /* Adjust the copyright text style */
+  .footer-copyright {
+    text-align: center;
+    font-size: 14px;
+    
+  } */
+  footer {
+    width: 100%;
+    color: #161714;
+    padding: 20px 0;
+  }
+  
+  .container {
+    color: #b6b9ab;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    /* padding-right: 30px;
+    padding-left: 30px; */
+    border-top: 1px solid #ccc;
+  }
+  p{
+    justify-content: baseline;
+  }
+#b1{
+    background-color: #161714;
+  }
+  #button1{
+    background-color: blueviolet;
+  }
